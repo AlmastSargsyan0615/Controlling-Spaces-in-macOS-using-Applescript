@@ -1,1 +1,2 @@
-# Controlling-Spaces-in-macOS-using-Applescript
+# Spaces_applescript
+applescript for spaces management
